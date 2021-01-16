@@ -25,25 +25,25 @@
     "test:packages:create-nuxt-content-docs": "jest packages/create-nuxt-content-docs"
   },
   "devDependencies": {
-    "@babel/core": "^7.12.3",
-    "@babel/preset-env": "^7.12.1",
+    "@babel/core": "^7.12.10",
+    "@babel/preset-env": "^7.12.11",
     "@nuxtjs/eslint-config": "^5.0.0",
-    "@nuxt/typescript-build": "^2.0.3",
-    "@nuxt/typescript-runtime": "^2.0.0",
+    "@nuxt/typescript-build": "^2.0.4",
+    "@nuxt/typescript-runtime": "^2.0.1",
     "@nuxtjs/eslint-config-typescript": "^5.0.0",
     "@nuxtjs/module-test-utils": "^1.6.3",
     "babel-eslint": "^10.1.0",
     "babel-jest": "^26.6.3",
     "codecov": "^3.8.1",
-    "eslint": "^7.13.0",
-    "highlight.js": "^10.4.0",
-    "husky": "^4.3.0",
+    "eslint": "^7.18.0",
+    "highlight.js": "^10.5.0",
+    "husky": "^4.3.8",
     "jest": "^26.6.3",
     "lerna": "^3.22.1",
-    "nuxt": "^2.14.7",
+    "nuxt": "^2.14.12",
     "puppeteer": "^5.5.0",
     "shiki": "^0.2.7",
     "shiki-twoslash": "^0.8.1",
-    "tib": "^0.7.4"
+    "tib": "^0.7.5"
   }
 }
